@@ -1,5 +1,5 @@
 # 💫 About Me:
-I´m current working with .Net<br>
+I´m current working with .Net and Angular<br>
 
 
 # 💻 Tech Stack:
